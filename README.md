@@ -1,16 +1,37 @@
-# finderly
+<h1 align="center">
+  <a href="#Finderly"></a>
+   Finderly📍
+</h1>
 
-A new Flutter project.
+## `Project Title`
+Finderly
 
-## Getting Started
+## `Description`
+Finderly is a location-based app designed to help users discover nearby restaurants, cafes, turfs, and more based on their current location. With real-time location tracking and a user-friendly interface, Finderly provides an effortless way to explore and find places of interest according to your preferences. The app leverages Firebase for user authentication and personalized experiences, making it easy to find exactly what you're looking for, wherever you are.
 
-This project is a starting point for a Flutter application.
+## `Features`
+- **Location-Based Search:** Find nearby restaurants, cafes, turfs, and more based on your current location.
+- **User Authentication:** Secure login and registration to manage user accounts and preferences.
+- **Interactive Maps:** View locations on a map and navigate easily to your desired destination.
+- **Customizable Filters:** Filter search results by type, distance, rating, and more.
+- **Manual Location Entry:** Enter a specific location to find nearby places of interest.
+- **Profile Management:** View and update user profile information and preferences.
 
-A few resources to get you started if this is your first Flutter project:
+## `Prerequisites`
+Ensure you have:
+- A smartphone or tablet device with GPS enabled
+- Internet connectivity for fetching location data and places
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## `Tech Stack Used`
+- Flutter (+Dart)
+- Firebase
+- Google Places API for fetching nearby locations
+- Google Maps API for map integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## `Installation`
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/riyanachwani/Finderly.git
+   ```
+2. **Open the Project Folder:** Launch the project in your preferred IDE.
+3. **Run the Project:** Execute the project in your IDE to start the application.

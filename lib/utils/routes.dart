@@ -1,4 +1,4 @@
-class Routes {
+class MyRoutes {
   static String landingPage = '/landing';
   static String signupPage = '/signup';
   static String loginPage = '/login';

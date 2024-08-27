@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class Themes {
+class MyThemes {
   static ThemeData lightTheme(BuildContext context) => ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Color(0xFF2596BE)),
         fontFamily: GoogleFonts.arOneSans().fontFamily,
